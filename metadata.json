@@ -1,0 +1,6 @@
+{
+  "name": "ArivuPro AI Evaluator",
+  "description": "An AI-powered exam evaluation system for ArivuPro Academy. Students can upload question papers, answer keys, and handwritten scripts for instant accuracy checks, marking, and feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
